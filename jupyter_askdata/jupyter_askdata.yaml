@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Main: main.js
+Name: jupyter-askdata
+Icon: icon.jpg
+Description: "jupyter-askdata plugin with askdata and pandas support"

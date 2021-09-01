@@ -1,0 +1,10 @@
+ {
+  "NotebookApp": {
+  	"load_extensions": {
+     "jupyter-askdata/main": true
+  },
+    "nbserver_extensions": {
+      "jupyter_askdata.jupyter_text2code_serverextension": true
+    }
+  }
+}
